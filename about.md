@@ -6,11 +6,11 @@
  
  **Pět zásadních webových zdrojů:**
  
- - https://en.wikipedia.org/wiki/Harry_Bruce_(academic)
- - http://faculty.washington.edu/harryb/ 
- - https://ischool.uw.edu
- - https://ischool.uw.edu/people/faculty/harryb
- - https://www.linkedin.com/in/harry-bruce-19120851
+ - [https://en.wikipedia.org/wiki/Harry_Bruce_(academic)](https://en.wikipedia.org/wiki/Harry_Bruce_%28academic%29)
+ - [http://faculty.washington.edu/harryb/](http://faculty.washington.edu/harryb/) 
+ - [https://ischool.uw.edu](https://ischool.uw.edu)
+ - [https://ischool.uw.edu/people/faculty/harryb](https://ischool.uw.edu/people/faculty/harryb)
+ - [https://www.linkedin.com/in/harry-bruce-19120851](https://www.linkedin.com/in/harry-bruce-19120851)
 
 **Newebové zdroje:**
 
@@ -21,7 +21,7 @@
 - AMEEN, Kanwal. Personal Information Management Practices and Behaviors of Social Sciences' Students. Pakistan Journal of Information Management [online]. 2016, 18, 12-24 [cit. 2017-04-17]. ISSN 24097462.
 
 **Video**
-- https://www.youtube.com/watch?v=B5i9mREyLzA
+[https://www.youtube.com/watch?v=B5i9mREyLzA](https://www.youtube.com/watch?v=B5i9mREyLzA)
 
 Vizualizace webu: inspirujeme se nejspíš webem [http://wiki.knihovna.cz/index.php/Kategorie:Významné_osobnosti_informačních_studií_a_knihovnictví](http://wiki.knihovna.cz/index.php/Kategorie:V%C3%BDznamn%C3%A9_osobnosti_informa%C4%8Dn%C3%ADch_studi%C3%AD_a_knihovnictv%C3%AD) , ale pokusíme do toho takzvaně vložit vlastní duši.
 
